@@ -1,6 +1,6 @@
 # nuxtauth-local
 
-> My transcendent Nuxt.js project
+> Nuxt SPA with @nuxt/auth configured for Laravel Sanctum
 
 ## Build Setup
 

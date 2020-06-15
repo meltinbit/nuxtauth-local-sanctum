@@ -15,8 +15,8 @@ export default {
   data() {
     return {
       form: {
-        email: 'fabio@fabiomangolini.net',
-        password: 'zxasqw12'
+        email: '',
+        password: ''
       }
     }
   },
