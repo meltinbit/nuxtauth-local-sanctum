@@ -1,5 +1,6 @@
 <template>
   <div>
+    <div v-if="$auth.loggedIn">MENU</div>
     <nuxt />
   </div>
 </template>
