@@ -5,6 +5,9 @@
 ## Build Setup
 
 ```bash
+#clone repo into a frontend folder
+$ git clone https://github.com/vikvarg/nuxtauth-local-sanctum.git frontend
+
 # install dependencies
 $ npm install
 
