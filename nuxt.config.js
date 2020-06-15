@@ -1,5 +1,3 @@
-import colors from 'vuetify/es5/util/colors'
-
 export default {
   mode: 'spa',
   router: {
@@ -38,7 +36,6 @@ export default {
   ** Nuxt.js dev-modules
   */
   buildModules: [
-    
   ],
   /*
   ** Nuxt.js modules
